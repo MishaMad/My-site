@@ -89,6 +89,8 @@ body {
 
 .Misha {
   border-radius: 50%;
+  border: solid 10px #1D46B5;
+
 }
 
 .intro h3,
